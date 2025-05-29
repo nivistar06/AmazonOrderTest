@@ -1,0 +1,5 @@
+23:19:00.974 [main] DEBUG com.functional.pages.AmazonHomePage - Initialized AmazonHomePage
+23:19:00.979 [main] DEBUG c.functional.pages.AmazonProductPage - Initialized AmazonProductPage
+23:19:00.983 [main] DEBUG c.functional.pages.AmazonProductPage - Initialized AmazonProductPage with timeout: PT15S
+23:19:00.984 [main] DEBUG c.f.pages.AmazonCheckoutPage - Initialized AmazonCheckoutPage
+23:19:00.984 [main] DEBUG c.f.pages.AmazonCheckoutPage - Initialized AmazonCheckoutPage

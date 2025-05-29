@@ -1,0 +1,16 @@
+{
+  "searchTerms": [
+    {
+      "term": "selenium automation",
+      "expectedResults": 10
+    },
+    {
+      "term": "test automation framework",
+      "expectedResults": 15
+    },
+    {
+      "term": "java programming",
+      "expectedResults": 20
+    }
+  ]
+} 
